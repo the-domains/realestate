@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Homes for Sale and Home to Buy]]></title>
         <description><![CDATA[Homes for Sale and Home to Buy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/realestate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 02:09:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 02:09:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/realestate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is your future smart home — and no, it doesn't look like 'The Jetsons']]></title>
             <description><![CDATA[<h1>This is your future smart home — and no, it doesn't look like 'The Jetsons'</h1>]]></description>
-            <link>undefinedthis-is-your-future-smart-home-and-no-it-doesnt-look-lik/index.html</link>
+            <link>https://thegrid.ai/realestate/this-is-your-future-smart-home-and-no-it-doesnt-look-lik/index.html</link>
             <guid isPermaLink="false">ab742310-e4e9-4697-a3f0-128b5d24d3bb</guid>
-            <pubDate>Wed, 21 Oct 2015 02:09:07 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2015 02:09:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
