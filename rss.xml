@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Homes for Sale and Home to Buy]]></title>
-        <description><![CDATA[Homes for Sale and Home to Buy]]></description>
+        <title><![CDATA[Homes for Sale and Homes to Buy]]></title>
+        <description><![CDATA[Homes for Sale and Homes to Buy]]></description>
         <link>https://thegrid.ai/realestate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 02:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 13:44:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/realestate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is your future smart home — and no, it doesn't look like 'The Jetsons']]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/realestate/this-is-your-future-smart-home-and-no-it-doesnt-look-lik/index.html</link>
             <guid isPermaLink="false">ab742310-e4e9-4697-a3f0-128b5d24d3bb</guid>
             <pubDate>Wed, 21 Oct 2015 02:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millennials are starting to buy homes, and they're headed to the suburbs]]></title>
+            <description><![CDATA[<article><h1>Millennials are starting to buy homes, and they're headed to the suburbs</h1><p>There's a reason we're always talking about millennials: There are a lot of them. The millennial generation - usually defined as Americans born between 1981 and 1997 - is the largest in US history, and is estimated to make up three-quarters of the US workforce by 2025.</p><img src="http://static6.businessinsider.com/image/56268a9f6bb3f72438528174-1024-512/friends-women-beach-laughing-1.jpg"></article>]]></description>
+            <link>http://www.businessinsider.com/millennials-are-headed-to-the-suburbs-2015-10?utm_content=bufferda86f&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">478c527d-1ff7-449f-a734-50a765ec802e</guid>
+            <pubDate>Thu, 22 Oct 2015 13:44:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
